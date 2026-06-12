@@ -3,6 +3,9 @@ DecodeLabs-Internship/
 ├── week1/
 │   ├── chatbot.py
 │   └── README.md
-└── week2/
-    ├── classifier.py
+├── week2/
+│   ├── classifier.py
+│   └── README.md
+└── week3/
+    ├── recommender.py
     └── README.md
