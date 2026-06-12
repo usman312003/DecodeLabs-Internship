@@ -1,2 +1,5 @@
-# DecodeLabs-Internship
-4-week AI Internship tasks for DecodeLabs (Industrial Training Kit, Batch 2026)
+DecodeLabs-Internship/
+├── README.md
+└── week1/
+    ├── chatbot.py
+    └── README.md
